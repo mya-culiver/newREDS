@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "315300262286",
+    "firebase_url": "https://newreds-b3305.firebaseio.com",
+    "project_id": "newreds-b3305",
+    "storage_bucket": "newreds-b3305.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:315300262286:android:b053f5b1119a9f1ab834df",
+        "android_client_info": {
+          "package_name": "com.example.newreds"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "315300262286-mt8cc3f6q1gpd6c3g0ika1iiflb69tbl.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAApZMfUD7ixcge9bGZye1uZIE6MUoHVBU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "315300262286-mt8cc3f6q1gpd6c3g0ika1iiflb69tbl.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
